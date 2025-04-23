@@ -6,15 +6,18 @@ Este repositorio contiene los notebooks, recursos y trabajos realizados para la 
 El objetivo de la materia es introducir los conceptos fundamentales del tratamiento digital de imágenes utilizando Python y librerías como OpenCV, scikit-image, PIL y NumPy. Los ejercicios incluyen desde la adquisición y manipulación básica hasta la segmentación, muestreo y cuantización.
 
 🛠️ Herramientas utilizadas
-Python 3.x
-NumPy
-Matplotlib
-Pillow (PIL)
-scikit-image
-OpenCV
-Google Colab
+- Python 3.x
+- NumPy
+- Matplotlib
+- Pillow (PIL)
+- scikit-image
+- OpenCV
+- Google Colab
 
 📚 Créditos
+
 Docente: Prof. Matías Barreto
+
 Carrera: Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial
+
 Instituto: IFTS N° 24 - CABA
