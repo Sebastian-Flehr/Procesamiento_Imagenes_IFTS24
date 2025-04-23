@@ -18,6 +18,8 @@ El objetivo de la materia es introducir los conceptos fundamentales del tratamie
 
 Docente: Prof. Matías Barreto
 
+Alumno: Sebastián Flehr
+
 Carrera: Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial
 
 Instituto: IFTS N° 24 - CABA
